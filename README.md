@@ -1,6 +1,6 @@
 - 👋 Hi, my name is Jassim
 - 👀 I’m interested in Flutter, python, arduino, and Firebase
-- 🌱 I’m currently learning python and A I 
+- 🌱 I’m currently learning python
 - 📫 How to reach me, through my email: jlva_14@outlook.com
 
 <!---
